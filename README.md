@@ -1,105 +1,89 @@
-<!-- Hero Section -->
-<h1 align="center">👋 Hi, I'm <strong>Bikrantamani Thapa</strong></h1>
+# 👋 Hi, I'm Bikrantamani Thapa
 
-<p align="center">
-  💻 Aspiring Computing Student • Front-End Developer • Java & Database Enthusiast  
-</p>
-
-<p align="center">
-  <a href="mailto:bikranta456@gmail.com"><img src="https://img.shields.io/badge/Email-bikranta456%40gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="https://www.bing.com/maps/search?FORM=HDRSC6&q=bhaktapur&cp=27.677761%7E85.424465&lvl=14.5&style=r"><img src="https://img.shields.io/badge/Nepal-Bhaktapur-0E7C7B?style=flat&logo=googlemaps&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Status-Student-0066FF?style=flat">
-</p>
+**BSc (Hons) Computing Student**  
+Leeds Beckett University (studying at partnered institution The British College, Kathmandu)  
+**Address:** Bhaktapur, Nepal  
+**Email:** bikranta456@gmail.com  
+**GitHub:** [WeCode103](https://github.com/WeCode103)
 
 ---
 
-## 🚀 **About Me**
-- 🎓 **BSc Computing Student** at KBC Hetauda (Coventry University pathway)  
-- 🔥 Passionate about **Frontend Development**, **Java**, **Database Management**
-- 🌱 Currently learning: **Java OOP, MySQL, JavaScript, Web Development**
-- 🤝 Open to collaborating on web projects & Java-based applications  
+## 🛠️ Tech Stack
+
+### Languages
+- C
+- C++
+- Python
+- Java
+- C#
+
+### Frontend Development
+- HTML
+- CSS
+- JavaScript
+- React (learning)
+
+### Tools & Technologies
+- Git & GitHub
+- Linux
+- MySQL
+- VS Code
+- Eclipse
 
 ---
 
-## 🛠️ **Tech Stack**
+## 📂 Projects
 
-### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+### 1. Student Management System
+A Java GUI application to manage student information using CRUD operations.  
+**Technologies:** Java, Eclipse, MySQL  
+**What I Did:**  
+- Designed the database schema  
+- Built full CRUD functionality  
+- Implemented GUI interactions
 
-### **Tools & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+### 2. GUI Calculator
+A simple web-based calculator for basic arithmetic.  
+**Technologies:** HTML, CSS, JavaScript
 
----
-
-## 📂 **Projects**
-
-### 📌 **Student Management System**
-- A simple GUI app to **create, read, update, delete** student data  
-- **Tech:** Java, Eclipse, MySQL  
-- **Role:** Designed the database + developed the application logic  
+### 3. Café Restaurant Website (Frontend)
+A multi-page static website (Home, Menu, Gallery, About, Contact).  
+Includes icons for sign-in, location, and cart features.  
+**Technologies:** HTML, CSS  
+**Status:** Work in progress (will expand using JS/React)
 
 ---
 
-### 📌 **GUI Calculator**
-- A functional calculator that performs basic arithmetic  
-- **Tech:** HTML, CSS, JavaScript  
-- Clean UI and basic functionality  
+## 💼 Experience
+
+### Junior Front-End Intern — Reflex IT Solution
+**Duration:** 6 Months (OJT + Internship)  
+**Work Included:**  
+- Frontend development using HTML, CSS, JS  
+- Debugging and UI improvements  
+- Working with Git and GitHub  
+- Learning professional development workflow
 
 ---
 
-### 📌 **Café Restaurant Frontend Website** *(In Progress)*  
-- A responsive multi-page website  
-- Screens: **Home, Menu, About, Contact, Gallery**  
-- Icons: **Login/Signup, Location, Add to Cart**  
-- **Tech:** HTML, CSS  
-- Will later upgrade using JS and backend tools  
+## 🏆 Certifications
+- Junior Front-End Internship Certificate — Reflex IT Solution (HTML, CSS, JavaScript)
 
 ---
 
-## 🎓 **Experience**
-### 🏢 **Reflex IT Solution — Intern**  
-**Duration:** 6 months (On-the-Job Training)  
-- Learned frontend development  
-- Worked with HTML, CSS, JavaScript  
-- Contributed to UI design tasks  
+## 🎯 Current Learning Goals
+- Advancing React skills  
+- Building more frontend and full-stack projects  
+- Strengthening software development fundamentals
 
 ---
 
-## 🏆 **Achievements**
-- 🥇 **Junior Front-End Internship Certificate** (HTML, CSS, JS)  
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WeCode103&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WeCode103&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 **Contact Me**
+## 🤝 Connect with Me
 - **Email:** bikranta456@gmail.com  
-- **Phone:** +977 9745979075  
-- **Location:** Bhaktapur, Nepal  
-
----
-
-## ⭐ **GitHub Stats**
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bikranta456&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikranta456&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔗 **Socials**
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:bikranta456@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-⭐ *If you like my work, consider giving a star to my repositories!*  
+- **GitHub:** [WeCode103](https://github.com/WeCode103)
