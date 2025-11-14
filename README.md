@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:bikranta456@gmail.com"><img src="https://img.shields.io/badge/Email-bikranta456%40gmail.com-red?style=flat&logo=gmail"></a>
-  <img src="https://img.shields.io/badge/Nepal-Bhaktapur-0E7C7B?style=flat&logo=googlemaps&logoColor=white">
+  <a href="https://www.bing.com/maps/search?FORM=HDRSC6&q=bhaktapur&cp=27.677761%7E85.424465&lvl=14.5&style=r"><img src="https://img.shields.io/badge/Nepal-Bhaktapur-0E7C7B?style=flat&logo=googlemaps&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Status-Student-0066FF?style=flat">
 </p>
 
