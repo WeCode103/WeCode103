@@ -81,7 +81,7 @@
 
 ## 📫 **Contact Me**
 - **Email:** bikranta456@gmail.com  
-- **Phone:** +977 974597907  
+- **Phone:** +977 9745979075  
 - **Location:** Bhaktapur, Nepal  
 
 ---
