@@ -21,7 +21,8 @@ Leeds Beckett University (studying at partnered institution The British College,
 - HTML
 - CSS
 - JavaScript
-- React (learning)
+- React
+- NextJS
 
 ### Tools & Technologies
 - Git & GitHub
