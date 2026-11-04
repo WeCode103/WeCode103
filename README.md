@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bikrantamani Thapa
 
 **BSc (Hons) Computing Student**  
-Leeds Beckett University (studying at partnered institution The British College, Kathmandu)  
+Leeds Beckett University (studying at partnered institution The British College, Thapathali, Kathmandu)  
 **Address:** Bhaktapur, Nepal  
 **Email:** bikranta456@gmail.com  
 **GitHub:** [WeCode103](https://github.com/WeCode103)
@@ -23,6 +23,8 @@ Leeds Beckett University (studying at partnered institution The British College,
 - JavaScript
 - React
 - NextJS
+- Tailwind
+- Bootstrap
 
 ### Tools & Technologies
 - Git & GitHub
@@ -30,6 +32,12 @@ Leeds Beckett University (studying at partnered institution The British College,
 - MySQL
 - VS Code
 - Eclipse
+- Wire Shark
+- CISCO Packet
+- Vercel
+- Photoshop
+- Figma
+- Canva
 
 ---
 
